@@ -1,0 +1,6 @@
+build
+main.pro.user
+.qmake.stash
+Makefile
+*.o
+main
