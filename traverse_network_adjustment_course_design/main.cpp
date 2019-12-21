@@ -1,8 +1,8 @@
 #include<bits/stdc++.h>
 #include<Eigen/Eigen>
-#define r 180*3600/M_PI
 using namespace std;
 using namespace Eigen;
+const double r=180*3600/M_PI;
 double a[9][9],b[9][9],s0[10],alpha[9][9];
 double s[10]={104.440,99.082,92.821,95.183,71.656,90.915,76.504,71.364,79.744,73.586};
 double x[9]={300.536,272.962,173.966,96.921,120.313,172.923,257.839,200.697,253.298};//三角求坐标
